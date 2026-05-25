@@ -28,4 +28,4 @@ I believe in a **Project-First** approach. My cohorts do not just write code; th
 3. **Deployment:** Automating CI/CD pipelines via Jenkins and Docker.
 
 ---
-📫 **Connect with me:** https://in.linkedin.com/in/kadhiraiah-rasala-b691ba378 | ✉️ rkadhiraiah@gmail.com
+📫 **Connect with me:** [https://in.linkedin.com/in/kadhiraiah-rasala-b691ba378](https://in.linkedin.com/in/rasala-kadhiraiah-13b883124) | ✉️ rkadhiraiah@gmail.com
